@@ -1,3 +1,3 @@
-# streethack.org
+# We Vote India
 
-The website of Streethack - Bringing Innovation to life faster than ever.
+Platform Where you get to know all about your candidates.
